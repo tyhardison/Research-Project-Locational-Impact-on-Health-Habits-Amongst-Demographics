@@ -27,7 +27,7 @@ Prior to processing, both empty and 'total' rows were removed as well as any row
 
 ***To Reproduce:*** Please see requirements.txt in the repository
 
-***On opening the main_notebook.ipynb file (the actual research project), the entire file may be limited to github's constraints and therefor be cut off incomplete. Please see the provided google colab link at the top of the file, or located here (https://colab.research.google.com/drive/1_MvnGbE2lS_kGWlSLqMAHxMUnFBJuSQO?usp=sharing) to view the project. Additionally, I have provided the individual code cells used in the project in the "Code" folder in the repository. The py files are numbered in the order in which they should be ran. Please note, if you choose to run the code yourself, you must download and save the data and update the top of Cell 3 to to accomplish this.***
+***On opening the main_notebook.ipynb file (the actual research project), the entire file may be limited to github's constraints and therefor be cut off incomplete. Please see the provided google colab link at the top of the file, or located here (https://colab.research.google.com/drive/1_MvnGbE2lS_kGWlSLqMAHxMUnFBJuSQO?usp=sharing) to view the project. Additionally, I have provided the individual code cells used in the project in the "Code" folder in the repository. The py files are numbered in the order in which they should be ran. Please note, if you choose to run the code yourself, you must download and save the data and update the "raw = pd.read_csv([your_save_location])" line at the top of Cell 3.***
 
 **Key Dependencies:**
 * Python v 3.12.13
