@@ -39,6 +39,8 @@ Prior to processing, both empty and 'total' rows were removed as well as any row
 
 
 **Repository Structure:**
+* Code
+    * [Individual Python Code blocks for notebook]
 * data.csv.zip
 * main_notebook.ipynb
 * Project_Checkpoints
