@@ -2,7 +2,7 @@
 
 **Description:**
 
-This project does a deep data analysis of how the demographics of different populations affects their health habits and obesity rates. Additionally, it assesses how regional location may play a key role in impacting the weights attributed to those factors. My goal with this project is to find ways that we can help contribute to a healthier lifestyle given the circumstances of different populations. In finding the demographics that hold stronger tendencies towards unhealthy habits, we can find ways to adjust their lifestyle to help those groups manage their risk.
+This project does a deep data analysis of how the demographics of different populations affect their health habits and obesity rates. Additionally, it assesses how regional location may play a key role in impacting the weights attributed to those factors. My goal with this project is to find ways that we can help contribute to a healthier lifestyle given the circumstances of different populations. In finding the demographics that hold stronger tendencies towards unhealthy habits, we can find ways to adjust their lifestyle to help those groups manage their risk.
 
 ***The main deliverable in this repository is:*** main_notebook.ipynb
 
@@ -23,7 +23,7 @@ https://data.cdc.gov/Nutrition-Physical-Activity-and-Obesity/Nutrition-Physical-
 
 *Dataset included in repository*
 
-Prior to processing, both empty and 'total' rows were removed as well as any rows where the value being reported with left unanswered.
+Prior to processing, both empty and 'total' rows were removed as well as any rows where the value being reported was left unanswered. Additionally, I seperate data from 3 different main questions (health status, health activity, and diet) into 3 tables to isolate this information in analysis. This process occurs in Cell 3 (see /Code/3_Cleaning.py), but later a grand table of all information in a unified format fo each 1 demographic per row per health group is compiled in Cell 7 (see /Code/7_ProfileTable.py).
 
 ***To Reproduce:*** Please see requirements.txt in the repository
 
