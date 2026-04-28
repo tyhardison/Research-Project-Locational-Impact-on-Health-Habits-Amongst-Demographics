@@ -39,7 +39,7 @@ Prior to processing, both empty and 'total' rows were removed as well as any row
 
 
 **Repository Structure:**
-* data.csv
+* data.csv.zip
 * main_notebook.ipynb
 * Project_Checkpoints
     * checkpoint_1.ipynb
