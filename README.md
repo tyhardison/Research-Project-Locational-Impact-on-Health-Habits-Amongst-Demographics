@@ -6,13 +6,17 @@ This project does a deep data analysis of how the demographics of different popu
 
 ***The main deliverable in this repository is:*** main_notebook.ipynb
 
+
+
 **Research Question:**
 
 "What demographics hold higher tendencies towards better/worse health habits thus creating patterns in obesity and overweight population? How does regional location affect those tendencies?"
 
 ***Preview Video:*** https://youtu.be/NoZ4hVgrupA?si=uI5IK21JSk21ytBm 
 
+
 **Data:**
 
 Data was sourced from the following: https://data.cdc.gov/Nutrition-Physical-Activity-and-Obesity/Nutrition-Physical-Activity-and-Obesity-Behavioral/hn4x-zwk7/about_data
+
 *Dataset included in repository*
