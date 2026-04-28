@@ -49,4 +49,5 @@ Prior to processing, both empty and 'total' rows were removed as well as any row
 * Requirements.txt
 
 **Results:**
+
 Regarding outcomes, I found that income has a very high impact on a populations tendency to partake in health activities, particularly higher income populations leading more healthy lifestyles and lower having the opposite, with middle class earners swapping roles here as potential stressers comes into consideration. This point is then driven further by looking at these habits through a scope of urbanicity, showing that lower income earners tend to have healthier habits as they move to more rural areas rather than urban.
