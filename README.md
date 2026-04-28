@@ -17,6 +17,22 @@ This project does a deep data analysis of how the demographics of different popu
 
 **Data:**
 
-Data was sourced from the following: https://data.cdc.gov/Nutrition-Physical-Activity-and-Obesity/Nutrition-Physical-Activity-and-Obesity-Behavioral/hn4x-zwk7/about_data
+Data was sourced from the following: 
+
+https://data.cdc.gov/Nutrition-Physical-Activity-and-Obesity/Nutrition-Physical-Activity-and-Obesity-Behavioral/hn4x-zwk7/about_data
 
 *Dataset included in repository*
+
+Prior to processing, both empty and 'total' rows were removed as well as any rows where the value being reported with left unanswered.
+
+***To Reproduce:*** Please see requirements.txt in the repository
+
+**Key Dependencies:**
+* Python v 3.12.13
+* adjustText: 1.3.0
+* matplotlib: 3.10.0
+* numpy: 2.0.2
+* pandas: 2.2.2
+* plotly: 5.24.1
+* scikit-learn: 1.6.1
+* seaborn: 0.13.2
