@@ -36,3 +36,14 @@ Prior to processing, both empty and 'total' rows were removed as well as any row
 * plotly: 5.24.1
 * scikit-learn: 1.6.1
 * seaborn: 0.13.2
+
+
+**Repository Structure:**
+* data.csv
+* main_notebook.ipynb
+* Project_Checkpoints
+    * checkpoint_1.ipynb
+    * checkpoint_2.ipynb
+    * preliminary_checkpoint.ipynb
+* README.md
+* Requirements.txt
