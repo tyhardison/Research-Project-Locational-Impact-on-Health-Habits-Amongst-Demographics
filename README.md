@@ -1,2 +1,3 @@
 # Research-Project-Locational-Impact-on-Health-Habits-Amongst-Demographics
-This project does a deep data analysis of how the demographics of different populations affects their health habits and obesity rates. Additionally, it assesses how regional location may play a key role in impacting the weights attributed to those factors.
+**Description:**
+This project does a deep data analysis of how the demographics of different populations affects their health habits and obesity rates. Additionally, it assesses how regional location may play a key role in impacting the weights attributed to those factors. My goal with this project is to find ways that we can help contribute to a healthier lifestyle given the circumstances of different populations. In finding the demographics that hold stronger tendencies towards unhealthy habits, we can find ways to adjust their lifestyle to help those groups manage their risk.
